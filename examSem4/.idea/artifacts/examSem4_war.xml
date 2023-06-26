@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="examSem4:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>examSem4</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="examSem4-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="examSem4:war exploded" />
+    </root>
+  </artifact>
+</component>
